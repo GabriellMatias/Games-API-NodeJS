@@ -1,6 +1,6 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
+<h1 align="center"> 
+  <img src="https://github.com/GabriellMatias/API-SOLID-NodeJS/assets/80908772/9da2ea8f-a3ac-45b8-8bf3-a391e640d58c"/>
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
